@@ -12,7 +12,7 @@
   "dependencies": {
   },
   "devDependencies": {
-    "chai": "^1.10.0",
+    "chai": "^3.2.0",
     "mocha": "^2.1.0"
   }
 }
